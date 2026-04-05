@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @admis-vra
-- 👀 I’m interested in NOTHING
-- 🌱 I’m currently learning MIND
+- 👀 I’m interested in Everything
+- 🌱 I’m currently learning Figma Masters
 - 💞️ I’m looking to collaborate on DM"S
 - 📫 How to reach me: meet me in hell
 - 😄 Pronouns: he/him
