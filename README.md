@@ -14,7 +14,7 @@
 <tr>
 <td valign="top" width="50%">
 
-### 🧑‍💻 About Me
+### 🧑💻 About Me
 
 ```yaml
 name: Siddhant Singh Rawat
@@ -93,7 +93,7 @@ fun_fact: The SUN is HOT ☀️
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=admis-vra&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
+![Profile Views](https://api.visitorbadge.io/api/visitors?path=admis-vra&label=PROFILE+VIEWS&countColor=%2358A6FF)
 
 </div>
 
