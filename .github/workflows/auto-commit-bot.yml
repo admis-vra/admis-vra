@@ -1,0 +1,54 @@
+name: Daily Contribution Bot
+
+on:
+  schedule:
+    - cron: '28 1 * * *'
+    - cron: '1 4 * * *'
+    - cron: '51 7 * * *'
+    - cron: '47 9 * * *'
+    - cron: '44 12 * * *'
+    - cron: '40 16 * * *'
+    - cron: '39 19 * * *'
+    - cron: '4 22 * * *'
+  workflow_dispatch: # Allows manual trigger from dashboard
+
+permissions:
+  contents: write
+
+jobs:
+  make-contributions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          
+      - name: Make Random Changes
+        run: |
+          # Seed random generator and choose between 4 and 5 commits per run (8 runs/day * ~4.5 commits = ~36 commits/day)
+          NUM_COMMITS=$((4 + RANDOM % 2))
+          echo "Bot decided to create $NUM_COMMITS commits for this interval."
+          
+          # Ensure git is configured
+          git config --global user.name "Siddhant Singh Rawat"
+          git config --global user.email "206102460+admis-vra@users.noreply.github.com"
+          
+          # Loop to commit changes
+          for i in $(seq 1 $NUM_COMMITS); do
+            echo "Auto activity update: $(date) - contribution commit #$i" >> CONTRIBUTIONS.md
+            git add CONTRIBUTIONS.md
+            git commit -m "chore: optimize layout structure and variables [skip ci]"
+          done
+          
+          # Push all commits to the remote branch
+          git push
+
+      - name: Boost Profile Views (+180 views per run)
+        run: |
+          echo "Sending 180 pings to profile views counter for admis-vra..."
+          for i in {1..180}; do
+            curl -s "https://komarev.com/ghpvc/?username=admis-vra" > /dev/null
+            curl -s "https://api.visitorbadge.io/api/visitors?path=admis-vra" > /dev/null
+            sleep 0.05
+          done
