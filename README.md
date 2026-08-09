@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=Siddhant%20Singh%20Rawat&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Enthusiast%20%7C%20Builder%20of%20Intelligent%20Things&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://this.is-cool.dev/vra_admis">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Siddhant+%F0%9F%91%8B;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;Building+Automation+%26+Smart+Tools+%E2%9A%99%EF%B8%8F;Currently+learning+Figma+Masters+%F0%9F%8E%A8;Open+to+collaborate+on+DMs+%F0%9F%92%AC&font=Fira%20Code&center=true&width=650&height=45&color=58A6FF&vCenter=true&size=22&pause=1200"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Siddhant+%F0%9F%91%8B;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;Building+Automation+%26+Smart+Tools+%E2%9A%99%EF%B8%8F;Masterd+Figma+Masters+%F0%9F%8E%A8;Open+to+collaborate+on+DMs+%F0%9F%92%AC&font=Fira%20Code&center=true&width=650&height=45&color=58A6FF&vCenter=true&size=22&pause=1200"/>
 </a>
 
 </div>
