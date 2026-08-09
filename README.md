@@ -29,8 +29,6 @@ fun_fact: The SUN is HOT ☀️
 ```
 
 📫 **Reach me:** [rawatsiddhant25@gmail.com](mailto:rawatsiddhant25@gmail.com)
-🌐 **Site:** [this.is-cool.dev/vra_admis](https://this.is-cool.dev/vra_admis)
-
 </td>
 <td valign="top" width="50%">
 
