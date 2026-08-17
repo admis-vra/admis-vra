@@ -14,7 +14,7 @@
 <tr>
 <td valign="top" width="50%">
 
-### 🧑💻 About Me
+### 🧑‍💻 About Me
 
 ```yaml
 name: Siddhant Singh Rawat
@@ -60,11 +60,21 @@ fun_fact: The SUN is HOT ☀️
 
 ### 📊 GitHub Analytics
 
-<img src="https://github-stats-extended.vercel.app/api?username=admis-vra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=admis-vra&theme=tokyonight&hide_border=true" height="165"/>
+<a href="https://github.com/admis-vra">
+  <img src="https://github-stats-extended.vercel.app/api?username=admis-vra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+</a>
+<a href="https://github.com/admis-vra">
+  <img src="https://streak-stats.demolab.com/?user=admis-vra&theme=tokyonight&hide_border=true" height="165"/>
+</a>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=admis-vra&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=admis-vra&theme=tokyo-night&hide_border=true" width="48%"/>
+<br/><br/>
+
+<a href="https://github.com/admis-vra">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=admis-vra&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</a>
+<a href="https://github.com/admis-vra">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=admis-vra&theme=tokyonight&hide_border=true" height="165"/>
+</a>
 
 </div>
 
@@ -76,7 +86,7 @@ fun_fact: The SUN is HOT ☀️
 
 <img src="https://raw.githubusercontent.com/admis-vra/admis-vra/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<sub>⚡ Snake animation auto-updates via GitHub Actions — see setup note below</sub>
+<sub>⚡ Snake animation auto-updates via GitHub Actions</sub>
 
 </div>
 
