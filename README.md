@@ -73,7 +73,7 @@ fun_fact: The SUN is HOT ☀️
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=admis-vra&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </a>
 <a href="https://github.com/admis-vra">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=admis-vra&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=admis-vra&hide_border=true" height="165"/>
 </a>
 
 </div>
