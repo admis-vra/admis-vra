@@ -84,7 +84,7 @@ fun_fact: The SUN is HOT ☀️
 
 ### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/okrahulbisht/okrahulbisht/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/admis-vra/admis-vra/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <sub>⚡ Snake animation auto-updates via GitHub Actions</sub>
 
